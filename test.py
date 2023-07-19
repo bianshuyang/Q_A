@@ -3,6 +3,7 @@ import timeit
 import subprocess
 valid = 1
 def main():
+    global valid
     # Ask for a filename
     filename = "main"
 
